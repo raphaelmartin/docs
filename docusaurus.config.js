@@ -64,9 +64,6 @@ const config = {
           alt: 'My Site Logo',
           src: 'img/pp.jpg',
         },
-        items: [
-          {to: '/about', label: 'À propos', position: 'right'},
-        ],
       },
       prism: {
         theme: lightCodeTheme,
