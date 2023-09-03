@@ -1,6 +1,5 @@
 ---
 title: Livres à lire
-slug: /
 ---
 
 ## Méthodes
