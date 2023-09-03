@@ -68,10 +68,6 @@ const config = {
           {to: '/about', label: 'À propos', position: 'right'},
         ],
       },
-      footer: {
-        style: 'light',
-        links: [],
-      },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
