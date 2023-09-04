@@ -59,9 +59,9 @@ const config = {
       respectPrefersColorScheme: true,
     },
       navbar: {
-        title: 'docs',
+        title: 'raphael.martin.melizi@ehess.fr',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'logo',
           src: 'img/pp.jpg',
         },
       },

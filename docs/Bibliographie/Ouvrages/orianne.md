@@ -1,5 +1,6 @@
 ---
 title: Petit précis de théorie sociologique
+sidebar_position: 4
 ---
 
 # Orianne. Petit précis de théorie sociologique

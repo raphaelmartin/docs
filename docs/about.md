@@ -1,15 +1,12 @@
 ---
 title: 'À propos'
+hide_title: true
 slug: /
 sidebar_position: 1
 hide_table_of_contents: true
 ---
 
-# docs
-
-Ceci est la homepage du site (`docs/Projet/to-do.md`)
-
-## CAND3QYG5VEB
+n°230776
 
 ## La rentrée
 > "La journée de rentrée du master Sociologie aura lieu mardi 10 octobre 2023 entre 9h et 17h sur le Campus Condorcet (Auditorium 50 du Centre des colloques Place du Front populaire, 93322 Aubervilliers cedex, Station Front populaire, ligne 12 du métro francilien)"

@@ -1,5 +1,6 @@
 ---
 title: Les courants contemporains de la sociologie
+sidebar_position: 1
 ---
 
 # Béraud, Coulmont. Les courants contemporains de la sociologie.

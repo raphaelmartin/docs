@@ -1,5 +1,6 @@
 ---
 title: Initiations à la sociologie. Questions pour apprendre à devenir sociologue
+sidebar_position: 3
 ---
 
 # Marchal. Initiations à la sociologie. Questions pour apprendre à devenir sociologue

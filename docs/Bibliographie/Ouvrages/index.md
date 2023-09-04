@@ -1,5 +1,6 @@
 ---
-title: Livres
+title: Ouvrages
+hide_table_of_contents: true
 ---
 
 ## Méthodes
