@@ -5,7 +5,7 @@ sidebar_position: 3
 
 # Marchal. Initiations à la sociologie. Questions pour apprendre à devenir sociologue
 
-## Un manuel territorialisé, historicisé et socialisé
+## Introduction. Un manuel territorialisé, historicisé et socialisé
 
 ## Qu'est-ce que la famille?
 
