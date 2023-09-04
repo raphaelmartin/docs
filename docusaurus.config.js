@@ -40,7 +40,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
-          breadcrumbs: false,
+          breadcrumbs: true,
         },
         blog: false,
         theme: {
