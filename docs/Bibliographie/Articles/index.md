@@ -1,5 +1,6 @@
 ---
 title: Articles
+hide_table_of_contents: true
 ---
 
 # Du 04-09 au 10/09
