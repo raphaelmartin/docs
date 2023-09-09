@@ -35,13 +35,40 @@ Il faut enfin être perméable/sensible aux apports de la discipline, comme aux 
 Ce que le sociologues nomment "le social" se trouve aussi bien _au-dessus_ des individus (État, institutions, idéologies...), _entre_ eux (normes relationnelles, rites d'interaction, codes langagiers...), _dans_ les individus (modèles culturels intériorisés, manières d'être incorporées, raison d'agir...), _à côté_ d'eux (objets intimes, territoires vécus, lieux de mémoire), et même _après_ eux (effet d'agrégation, ségrégation compromis et contrats résultant d'accords/transactions sociales...).
 
 ## Qu'est-ce que la famille?
+### la famille telle que nous la connaissons est naturelle (idée reçue n°1)
+### la parenté ne serait qu'une affaire de biologie (idée reçue n°2)
+### aujourd'hui, le choix du conjoint n'obéirait qu'à l'amour (idée reçue n°3)
+### le déclin du mariage traduirait un déclin de la famille et des "valeurs" (idée reçue n°4)
+### la famille serait menacée par une montée de l'individualisme contemporain (idée reçue n°5)
+### le partage des tâches serait aujourd'hui plus égalitaire (idée reçue n°6)
+### la famille protégerait de la violence de la société (idée reçue n°7)
+### la famille, on sait ce que c'est! (idée reçue n°8)
 
 ## Qu'est-ce que la culture?
+### la tradition intellectuelle allemande.
+### la tradition de l'anthropologie anglo-saxonne.
+### la culture à la base de la personnalité.
+### les limites de l'approche culturaliste.
+### les limites du relativisme culturel.
+### au-delà de la culture, l'échelle de l'identité humaine.
+### conclusion.
 
 ## Qu'est-ce que la sociabilité?
+### quelques repères sur l'origine et les usages de la notion.
+### quelques déterminants sociaux de la sociabilité.
+### les composantes spatiales et affinitaires de la sociabilité.
+### conclusion.
 
 ## Qu'est-ce que la déviance?
+### l'approche durkheimienne de la déviance.
+### l'approche fonctionnaliste de la déviance.
+### des approches plus micro-sociologiques de la déviance.
+### conclusion.
 
 ## Qu'est-ce qu'une représentation collective?
 
 ## Qu'est-ce que l'identité?
+
+## Qu'est-ce qu'une utopie?
+
+## Petit _vade mecum_ théorique de l'apprenti sociologue

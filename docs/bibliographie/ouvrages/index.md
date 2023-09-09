@@ -25,6 +25,7 @@ hide_table_of_contents: true
 - **Weber**. _La science, profession & vocation_
 - **Lahire**. _Dans les plis singuliers du social. Individus, institutions, socialisations_
 - **Coulmont**, **Mercklé**. _Pourquoi les top-modèles ne sourient pas. Chroniques sociologiques_
+- **Cuche**. La notion de culture dans les sciences sociales.
 
 ## Enquêtes
 
