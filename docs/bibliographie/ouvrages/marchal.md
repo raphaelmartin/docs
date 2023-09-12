@@ -42,7 +42,7 @@ Sens commun de ce qu'est une famille lié à la reproduction humaine qui a une b
 
 La famille repose sur une série d'invariants: les fonctions que remplit la parentalité -> la conception de l'enfant, lui donner un nom, veiller à sa santé et son bon développement, l'élever et l'instruire, ainsi que les relations de droits/devoirs associées (responsabilité, autorité, interdiction des rapports sexuels). Mais les groupes qui remplissent ces fonctions peuvent varier selon les sociétés/cultures. Les humaines ont construit de multiples réponses à la question "qu'est-ce que la famille?"
 
-L'anthropologie distingue des systèmes de filiation patrilinéaires (=l'enfant descend du clan du père) et des systèmes matrilinéaires (il descend du clan de la mère). La discipline a aussi recensé une variété de terminologies de parenté, des variations dans la manière d'associer tel terme, et tel statut, telles responsabilités et telles obligations, à telle personne. En Occident, le "père" est différent de l'oncle, mais l'oncle paternel et l'oncle maternel sont réunis par le même terme (=terminologie linéaire). D'autres ont un vocabulaire qui séparent selon les générations, selon le clan, voire même totalement distingué.
+L'anthropologie distingue des systèmes de filiation patrilinéaires (=l'enfant descend du clan du père) et des systèmes matrilinéaires (=il descend du clan de la mère). La discipline a aussi recensé une variété de terminologies de parenté, des variations dans la manière d'associer tel terme, et tel statut, telles responsabilités et telles obligations, à telle personne. En Occident, le "père" est différent de l'oncle, mais l'oncle paternel et l'oncle maternel sont réunis par le même terme (=terminologie linéaire). D'autres ont un vocabulaire qui séparent selon les générations, selon le clan, voire même totalement distingué.
 
 Ces variations selon les cultures ont fait l'objet de la théorie de l'alliance (Lévi-Strauss, _Les structures élémentaires de la parenté_, 1949): dans les sociétés tradis, l'échange de femmes entre différents clans obéit à des contraintes sociales parfois strictes, qui définissent quelles femmes sont épousables. Il distingue:
 
@@ -51,6 +51,9 @@ Ces variations selon les cultures ont fait l'objet de la théorie de l'alliance 
 
 ### la parenté ne serait qu'une affaire de biologie (idée reçue n°2)
 La famille n'implique pas que du biologique, mais aussi du social et du politique: faire une famille, c'est échanger, s'allier avec d'autres, transmettre... Toutes les sociétés ont des règles définissant les possibles, des obligations ou des systèmes de réciprocité, pour encadrer voire contrôler les alliances.
+
+1. Ce sont ces enjeux sociaux qui façonnent notre manière d'envisager la maternité et la paternité, et par là, les relations entre les hommes et les femmes. L'autonomie que les femmes gagnent au XXè n'est pas une négation de la biologie, mais la fin de cet arbitraire social dessinant 2 sphères d'activités distinctes: sphère privée (monde des femmes) ≠ sphère publique (monde des hommes et des affaires).
+2. L'importance des rituels dans la production des "êtres humains": on n'est pas que le produit d'une fécondation, pour être des humains à part entière, il faut que nous soyons confirmés en tant que tels par des rituels sociaux.
 
 ### aujourd'hui, le choix du conjoint n'obéirait qu'à l'amour (idée reçue n°3)
 ### le déclin du mariage traduirait un déclin de la famille et des "valeurs" (idée reçue n°4)
