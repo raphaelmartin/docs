@@ -6,7 +6,7 @@ hide_table_of_contents: true
 # Du 18-09 au 24-09
 
 1. **Blanc**. «L’homosexualité "situationnelle" en prison: une catégorie au service de l’ordre hétérosexuel?»
-2. *Beauvisage**, et al. «How online advertising targets consumers: The uses of categories and algorithmic tools by audience planners»
+2. **Beauvisage**, et al. «How online advertising targets consumers: The uses of categories and algorithmic tools by audience planners»
 3. **Becker**. «Rendre la sociologie pertinente pour la société»
 4. **Proulx**. «Granjon (Fabien), Classes populaires et usages de l’informatique connectée. Des inégalités sociales-numériques.»
 5. **Ward**. «Politisation et rapports ordinaires aux vaccins. Premiers enseignements de l’épidémie de Covid-19»
@@ -16,7 +16,7 @@ hide_table_of_contents: true
 9. **Périer** et **Riban**. L’ethnicisation des parents à l’école : assignations identitaires et logiques d’action de mères immigrées de milieux populaires
 10. **Grimault-Leprince**. Apprentissages hors la classe et loisirs à l’ère numérique. Les stratégies des adolescents
 
----
+<hr>
 
 * **Harroche**. «Des inégalités pour atteindre l’excellence dans l’enseignement supérieur et la recherche ?»
 * **Tissot**. «Qu'est-ce qu'une homosexualité respectable? Classer pour contrôler»
