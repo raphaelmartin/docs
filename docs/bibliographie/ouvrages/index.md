@@ -3,13 +3,15 @@ title: Ouvrages
 hide_table_of_contents: true
 ---
 
-# Calendrier 4/09 au 10/09
+# Du 18-09 au 24-09
 
 1. **Béraud**, **Coulmont**. _Les courants contemporains de la sociologie_
 2. **Chalmers**. _Qu'est-ce que la science? Popper, Kuhn, Feyerabend_
 3. **Orianne**. _Petit précis de théorie sociologique_
 4. **Marchal**. _Initiations à la sociologie. Questions pour apprendre à devenir sociologue_
 5. **Ollion**. _Les candidats. Novices et professionnels en politique_
+
+---
 
 ## Méthodes
 
@@ -30,5 +32,5 @@ hide_table_of_contents: true
 ## Enquêtes
 
 - **Passeron**, **Pedler**. _Le temps donné aux tableaux_
-- **Coulangeon**. _Culture de masse et société de classes. Le goût de l'altérité
+- **Coulangeon**. _Culture de masse et société de classes. Le goût de l'altérité_
 - **Graeber**. _Bullshit jobs. A theory_
