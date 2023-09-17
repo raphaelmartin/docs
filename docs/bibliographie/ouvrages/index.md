@@ -11,7 +11,7 @@ hide_table_of_contents: true
 4. **Marchal**. _Initiations à la sociologie. Questions pour apprendre à devenir sociologue_
 5. **Ollion**. _Les candidats. Novices et professionnels en politique_
 
-<hr>
+<hr />
 
 ## Méthodes
 

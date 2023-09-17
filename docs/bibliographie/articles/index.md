@@ -16,7 +16,7 @@ hide_table_of_contents: true
 9. **Périer** et **Riban**. L’ethnicisation des parents à l’école : assignations identitaires et logiques d’action de mères immigrées de milieux populaires
 10. **Grimault-Leprince**. Apprentissages hors la classe et loisirs à l’ère numérique. Les stratégies des adolescents
 
-<hr>
+<hr />
 
 * **Harroche**. «Des inégalités pour atteindre l’excellence dans l’enseignement supérieur et la recherche ?»
 * **Tissot**. «Qu'est-ce qu'une homosexualité respectable? Classer pour contrôler»
