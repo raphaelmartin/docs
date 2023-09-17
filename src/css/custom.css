@@ -104,10 +104,10 @@ hr {
   box-sizing: content-box; /* 1 */
   overflow: visible; /* 2 */
   border: none;
-  border-top: 3px double #333;
+  border-top: 3px solid #333;
   color: #333;
   text-align: center;
-  height: 5px;
+  height: 1px;
 }
 
 /**
