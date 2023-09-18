@@ -3,7 +3,19 @@ title: Ouvrages
 hide_table_of_contents: true
 ---
 
-# Du 18-09 au 24-09
+# Du 20-09 au 1-10
+
+1. **Lahire**. _Dans les plis singuliers du social. Individus, institutions, socialisations_
+2. **Bourdieu** et **Wacquant**. _Invitation à la sociologie réflexive_
+3. **Masson**. _Les enquêtes sociologiques en France depuis 1945_
+4. **Becker**. _Faire preuve_
+5. **Lallement**. _Histoire des idées sociologiques. Des origines à Weber_
+6. **Coulmont** et **Mercklé**. _Pourquoi les top-modèles ne sourient pas_
+7. **Phillips**. _Abandoning method_
+
+<hr />
+
+# Du 04-09 au 19-09
 
 1. **Béraud**, **Coulmont**. _Les courants contemporains de la sociologie_
 2. **Chalmers**. _Qu'est-ce que la science? Popper, Kuhn, Feyerabend_
@@ -21,13 +33,10 @@ hide_table_of_contents: true
 
 ## Théorie
 
-- **Lallement**. _Histoire des idées sociologiques. Des origines à Weber_
 - **Bourdieu**, **Chamboredon**, **Passeron**. _Le métier de sociologue_
 - **Raynaud**. _Sociologie fondamentale. Étude d'épistémologie_
 - **Weber**. _La science, profession & vocation_
-- **Lahire**. _Dans les plis singuliers du social. Individus, institutions, socialisations_
-- **Coulmont**, **Mercklé**. _Pourquoi les top-modèles ne sourient pas. Chroniques sociologiques_
-- **Cuche**. La notion de culture dans les sciences sociales.
+- **Cuche**. _La notion de culture dans les sciences sociales_
 
 ## Enquêtes
 
