@@ -11,7 +11,7 @@ hide_table_of_contents: true
 4. **Becker**. _Faire preuve_
 5. **Lallement**. _Histoire des idées sociologiques. Des origines à Weber_
 6. **Coulmont** et **Mercklé**. _Pourquoi les top-modèles ne sourient pas_
-7. **Phillips**. _Abandoning method_
+7. **Lignier**. _La société est en nous. Comment le monde social engendre des individus_
 
 <hr />
 
@@ -30,6 +30,7 @@ hide_table_of_contents: true
 - **Sanjek**. _Fieldnotes. The makings of anthropology_
 - **Mauss**. _Manuel d'ethnographie_
 - **Husson**. _R pour la statistique et la science des données_
+- **Phillips**. _Abandoning method_
 
 ## Théorie
 
