@@ -3,7 +3,7 @@ title: Qu'est-ce que la science? Popper, Kuhn, Feyerabend
 sidebar_position: 2
 ---
 
-# Chalmers. Qu'est-ce que la science? Popper, Kuhn, Feyerabend
+# **Chalmers**. _Qu'est-ce que la science? Popper, Kuhn, Feyerabend_
 
 ## Introduction
 

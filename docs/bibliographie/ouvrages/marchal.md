@@ -3,7 +3,7 @@ title: Initiations à la sociologie. Questions pour apprendre à devenir sociolo
 sidebar_position: 3
 ---
 
-# Marchal. Initiations à la sociologie. Questions pour apprendre à devenir sociologue
+# **Marchal**. _Initiations à la sociologie. Questions pour apprendre à devenir sociologue_
 
 ## Introduction. Un manuel territorialisé, historicisé et socialisé
 Ce manuel d'intro à la socio n'est pas une histoire des "grands auteurs" (cela conduit à faire d'un penser un héros isolé et mythifié), ni une histoire des idées (s'intéressant à des écoles, doctrines, courants de pensée courant le risque de réduire l'épaisseur sociale/historique de la socio à quelques idées appréhendées en bloc).
