@@ -43,5 +43,23 @@ Tâche principale des fondateurs: comment observer, étudier, rendre compte de c
 #### les formes élémentaires de la vie religieuse (1912): une théorie sociologique de la connaissance.
 
 ### Max Weber. Une sociologie compréhensive et critique: le sens de l'action sociale
+#### économie et société
+**La sociologie et le sens de l'action sociale**
+
+**Les déterminants de l'action sociale**
+
+**Communauté et société: deux processus d'intégration**
+
+**Les types de domination légitime**
+
+#### théorie de la science.
+**Une sociologie compréhensive**
+
+**Le concept de causalité**
+
+**Le concept d'idéaltype**
+
+#### sociologie historique: le processus de rationalisation.
+#### sociologie des religions: l'éthique protestante et l'esprit du capitalisme.
 
 ### George Herbert Mead. Une sociologie pragmatique: communication et interaction

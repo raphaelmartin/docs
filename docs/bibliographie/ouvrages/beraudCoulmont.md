@@ -99,7 +99,32 @@ Collections créées dans plusieurs maisons d'édition: aux Presses universitair
 Entre '50–'60, des sources de financement qui iront en se diversifiant. Les sciences sociales en viennent à être perçues comme des aides possibles pour la décision politique et l'amélioration des conditions de vie. La planification éco/sociale devient un objectif étatique, devant être facilité par les travaux d'économistes, d'urbanistes, de sociologues.
 
 ### Des courants?
+Dans les '70–'80, la sociologie FR semblait être structurée autour de quelques écoles de pensée et 3, 4 mousquetaires. Situation différente dans les '50 où le petit groupe de sociologues partage un grand nombre d'orientation.
+
+#### le marxisme comme soubassement théorique.
+Le marxisme comme fonds commun de toutes les recherche, en concurrence avec l'existentialisme, car apparaît comme une possibilité de description scientifique du monde social. C'est aussi un fond commun politique. Comment se traduit cet attrait intellectuel?
+
+  * par des engagements individuels: une grande partie des jeunes sociologues sont membres du PC.
+  * utilisations dans le cadre des recherches: les sociologues du CES citent souvent Karl Marx, le philosophe allemand détient une place importante dans la formation universitaire/intellectuelle à l'époque.
+  * apparaît comme transversal
+  * par les sujets d'études: enquêtes portant surtout sur les ouvriers, petits employés. La classe ouvrière comme objet d'étude et comme classe révolutionnaire sont intimement conjuguées.
+
+#### des recherches sur le monde ouvrier.
+Dans les enquêtes d'après-guerre, le thème ouvrier est majoritaire (55% des articles), et transversal aux recherches: la religion des ouvriers, leurs loisirs, logement, opinions politiques. Résonances extérieures à la recherche: les chercheurs souhaitent parfois "aider" la classe ouvrière en lui donnant, par la recherche, les données qui lui manquent. Ce qui est appelée alors la "sociologie industrielle", la socio du travail à l'usine, est à l'origine d'un nombre important de monographies impulsées par Friedmann. La "formule de recherche" passe par l'enquête _in situ_, le recueil de données administratives, l'observation et la passation de questionnaires. Friedmann pousse les jeunes sociologues à observer le travail ouvrier, à y travailler un moment. Ces enquêtes ne sont pas "communistes", leurs résultats ne correspondent pas toujours aux propositions politiques du PC, ce dernier jugeant les sociologues de suspects, surtout quand les pratiques des chercheurs leur semblent "américaines".
+
+#### l'enquête américaine.
+Pour Chapoulie, l'Amérique constitue, avec la classe ouvrière, l'un des deux piliers de la refondation de la socio FR. La socio américaine apparaît comme un modèle de scientificité. Lazarsfeld, qui influence Stoetzel puis Boudon, fonde une sociologie basée sur les enquêtes statistiques et les applications pratiques: organisation en équipes de travail aux tâches définies/spécialisées (socio empirique "professionnalisée").
+
+Grâce aux voyages d'études, les sociologues FR découvrent une sociologie émancipée de la philo universitaire. Stoetzel, Friedmann, Mendras et Crozier passent plusieurs mois aux US. Mais en '55, il était nécessaire de présenter la nouveauté des techniques américaines, pour les domestiquer, car les travaux US sont reçus avec méfiance depuis les engagements impérialistes américains (plan Marshall favorisant les importations culturelles)... La sociologie ne serait-elle qu'une nouvelle importation américaine?
+
 ### Empirismes et objectivations
+
+#### l'héritage durkheimien comme tradition anonyme.
+#### des enquêtes empiriques.
+#### sur l'importation et l'utilisation de nouvelles techniques.
+#### l'importation de méthodes statistiques: la psychologie.
+#### exemple d'enquête empirique: le catholicisme français.
+
 ### Conclusion
 
 ## 2— Penser les inégalités
