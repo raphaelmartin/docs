@@ -6,12 +6,11 @@ hide_table_of_contents: true
 # Du 20-09 au 1-10
 
 1. **Lahire**. _Dans les plis singuliers du social. Individus, institutions, socialisations_
-2. **Bourdieu** et **Wacquant**. _Invitation à la sociologie réflexive_
-3. **Masson**. _Les enquêtes sociologiques en France depuis 1945_
-4. **Becker**. _Faire preuve_
-5. **Lallement**. _Histoire des idées sociologiques. Des origines à Weber_
-6. **Coulmont** et **Mercklé**. _Pourquoi les top-modèles ne sourient pas_
-7. **Lignier**. _La société est en nous. Comment le monde social engendre des individus_
+2. **Masson**. _Les enquêtes sociologiques en France depuis 1945_
+3. **Becker**. _Faire preuve_
+4. **Lallement**. _Histoire des idées sociologiques. Des origines à Weber_
+5. **Coulmont** et **Mercklé**. _Pourquoi les top-modèles ne sourient pas_
+6. **Lignier**. _La société est en nous. Comment le monde social engendre des individus_
 
 <hr />
 
@@ -31,6 +30,7 @@ hide_table_of_contents: true
 - **Mauss**. _Manuel d'ethnographie_
 - **Husson**. _R pour la statistique et la science des données_
 - **Phillips**. _Abandoning method_
+- **Bourdieu** et **Wacquant**. _Invitation à la sociologie réflexive_
 
 ## Théorie
 

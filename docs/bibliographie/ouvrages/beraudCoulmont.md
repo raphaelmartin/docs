@@ -62,7 +62,7 @@ Ces sociologues marginaux, sans être des sociologues de formation, sont raremen
 Ces sociologues "juniors" connaitront une carrière plus rapides que leurs collègues d'autres disciplines: à partir des '60, ils bénéficient de la forte hausse des effectifs étudiants en sociologie.
 
 ### La refondation
-Regard retrospectif: les "refondateurs" n'avaient pas pour projet la création d'une discipline universitaire: c'est la réunion d'une série de conditions institutionnelles et d'un ensemble de conditions intellectuelles qui permet cette refondation.
+Regard rétrospectif: les "refondateurs" n'avaient pas pour projet la création d'une discipline universitaire: c'est la réunion d'une série de conditions institutionnelles et d'un ensemble de conditions intellectuelles qui permet cette refondation.
 
 #### créer des institutions.
 
