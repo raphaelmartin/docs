@@ -118,14 +118,39 @@ Pour Chapoulie, l'Amérique constitue, avec la classe ouvrière, l'un des deux p
 Grâce aux voyages d'études, les sociologues FR découvrent une sociologie émancipée de la philo universitaire. Stoetzel, Friedmann, Mendras et Crozier passent plusieurs mois aux US. Mais en '55, il était nécessaire de présenter la nouveauté des techniques américaines, pour les domestiquer, car les travaux US sont reçus avec méfiance depuis les engagements impérialistes américains (plan Marshall favorisant les importations culturelles)... La sociologie ne serait-elle qu'une nouvelle importation américaine?
 
 ### Empirismes et objectivations
-
 #### l'héritage durkheimien comme tradition anonyme.
 #### des enquêtes empiriques.
 #### sur l'importation et l'utilisation de nouvelles techniques.
 #### l'importation de méthodes statistiques: la psychologie.
 #### exemple d'enquête empirique: le catholicisme français.
 
+#### l'héritage durkheimien comme tradition anonyme.
+Au-delà et en quelque sorte en s'opposant aux critiques à l'égard de Durkheim, on peut penser que l'héritage durkheimien est devenu une "tradition anonyme", une série de pratiques et d'usages qui ne sont plus attachés à la figure d'un individu fondateur. Héritage perceptible d'abord dans les comparaisons que les chercheurs français font entre leurs projets et les productions de la sociologie US, qui leur apparaît comme ayant abandonné toute tentative d'explication du social par le social, les structures sociales semblent absentes, tout comme la référence à une totalité supérieure aux individus. Repérable aussi par les usages qui sont faits de notions développées par Mauss (Friedmann et Gurvitch: homme total, fait social total). Cet héritage se perçoit surtout dans l'usage permanent des outils stats.
+
+#### des enquêtes empiriques.
+L'empirisme est ce qui distingue les recherches des sociologues FR après la 2nd GM de celles d'avant-guerre. Des travaux souvent sans prétention théorique, simplement comme une mise en application de méthodes de recueil de données. Pourquoi choisir l'empirisme? Cette option a pu être suivie en FR comme "stratégie double", combinant conviction de gauche et recherche appliquée pouvant servir les enquêtés, comme tentative de combiner marxisme/importations américaines.
+
+#### sur l'importation et l'utilisation de nouvelles techniques.
+L'empirisme se décline en plusieurs facettes. D'abord les techniques statistiques. Dénombrements, dès le XIXème siècle par Quételet pour sa théorie de l'homme moyen. Au cours de la 1ère moitié du XXème siècle, Durkheim est une partie de ses héritiers ont embrassé certaines techniques stats. Cela dit, avant '45, toutes les séries stats utilisées ont des origines étatiques, institutionnelles ou administratives. La tradition durkheimienne ne prépare pas à l'interprétation de données récoltées sur le terrain ni au recueil de ces données elles-mêmes. Les sociologues ne construisent pas leurs échantillons, ils reprennent des données produites dans d'autres buts.
+
+Après '45, une autre manière de faire de la sociologie apparaît. Les sociologues vont commencer à produire leur propres données, utilisant des échantillons, qu'ils étudient dans un second temps. Le développement de ces techniques est contemporain de l'importation en FR des techniques de sondage par Jean Stoetzel. Certains travaux du CES l'illustrent: on définit d'abord une population, à partir d'un critère. Par-delà la description, on cherche aussi à vérifier certaines hypothèses et on choisit les stats comme instrument de cette vérification.
+
+Tous les chiffres n'ont donc pas la même origine. Les durkheimiens avaient utilisé des données ayant pour origine des dénombrements ou une certaine "objectivation" par certaines institutions (années '30). Dans les années '50, l'objectivation passe en partie par la constitution d'un échantillon et d'un questionnaire visant à valider certaines hypothèses. 2 techniques d'objectivation différentes: constituer des données à partir de réponses à un questionnaire pousse à la rupture avec une version de la sociologie durkheimienne en s'intéressant aux opinions des acteurs, en concevant la société du point de vue des individus.
+
+La nécessité de la production autonome de données entre dans le "fonds commun" sociologique. Les enquêtes par questionnaire, les entretiens dans l'optique de les traites statistiquement, deviennent centrales dans la socio FR. Institutionnalisation de la socio et utilisation des démarches stats vont de pair. Simultanément s'éloignent les projets destinés à l'amélioration de la classe ouvrière: les commendes de l'État cherchant à comprendre la réalité sociale passent au 1er plan.
+
+#### l'importation de méthodes statistiques: la psychologie.
+Au sortir de la 2nde GM, les relations entre psychologie et sociologie sont permanentes. À une époque d'incertitude disciplinaire pour la sociologie, la psychologie fournit aussi des techniques et des méthodes.
+
+La notion même d'"attitude", souvent utilisée par la socio d'après-guerre, est importée de la psychologie, dérivant de la notion d'"aptitude". Jean Stoetzel propose un lien étroit entre les notions d'attitude et d'opinion: "à la source des conduites concrètes", on trouvera des "attitudes" dont "l'expression verbale n'est autre que l'opinion". L'étude stat de l'opinion à travers des sondages est donc une enquête sur les attitudes, comprises comme l'origine des conduites. Mais, à la différence des psychologies, l'expression des opinions est pour Stoetzel une manifestation du statut social.
+
+Ces importations font débat: Gurvitch critique le décalage entre l'opinion exprimée et l'attitude réelle. Les sondages ont des imperfections, mais il tient pour acquis le concept d'attitude et l'orientation méthodologique elle-même (=enquêtes empiriques par échantillon). Les sondages ont gagné.
+
+#### exemple d'enquête empirique: le catholicisme français.
+Une grande partie des enquêtes dans les '50 portaient sur le monde ouvrier. Les enquêtes sur le catholicisme illustrent encore mieux l'attrait pour l'empirisme. Le Bras, juriste, s'est tourné vers la socio dans les '30 afin de décrire objectivement la place du catholicisme dans la FR de son époque. Boulgé lui accorde un petit financement fin des '30. Le Bras s'inscrit alors dans une démarche hybride: d'un côté il s'appuie sur l'institution catholique pour recueillir des chiffres ; de l'autre, il cherche à transformer curés et évêques en assistants de recherche, en enquêteurs. Les enquêtes lebrasiennes procèdent d'un état d'esprit insistant sur la nécessité des enquêtes empiriques.
+
 ### Conclusion
+Dans les '60, l'intérêt pour les sciences sociales se développe. On passe d'une vingtaine d'enseignants du supérieur en socio en 1958 à 100 en 1968. Au milieu des '60, un premier cycle universitaire de sociologie (L1, L2) est créé. La recherche "sur contrat" prend son essor. Mais quelle est la place des sociologues? Parfois perçus comme des "déchiffreurs de tendance", ou des "analystes" des problèmes de la société industrielle. Pour Edgar Morin, les chercheurs avant étaient "crados", des marginaux dans l'univers académique. Désormais, ils ressemblent aux fonctionnaires et aux cadres.
 
 ## 2— Penser les inégalités
 ### Reproduction ou inégalité des chances: les approches de Bourdieu et Boudon

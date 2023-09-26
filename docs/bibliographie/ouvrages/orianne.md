@@ -148,7 +148,27 @@ De cette analogie structurelle entre sacré et morale, Durkheim conclut au fonde
 L'autorité du sacré est progressivement remplacée par l'autorité du consensus (droit révélé > droit pénal > droit moderne). Ce dernier se cristallise dans l'équivalence des intérêts privés et renonce à son caractère sacré ; cependant le remarquable formalisme des conclusions d'un contrat rappelle les fondements religieux du contrat.
 
 #### les formes élémentaires de la vie religieuse (1912): une théorie sociologique de la connaissance.
-Il propose une théorie générale de la religion. Idée directrice: il est légitime/possible de fonder une théorie des religions "supérieures" sur l'études des formes "primitives" de la religion (selon une perspective évolutionniste). Le totémisme révèle l'essence de la religion et constitue une des formes les plus élémentaires de la vie religieuse. Qu'est-ce que la religion? Pour Durkheim, ce n'est pas la croyance en un dieu transcendant qui constitue le fondement du phénomène religieux. Non plus par les notions de mystère ou de surnaturel, qui sont plus récentes, car il n'y a de surnaturel que par rapport au naturel, et pour penser le naturel, il faut déjà penser de manière positive (scientifique). Pour lui, l'essence de la religion est la _division du monde en phénomènes sacrés et profanes_. Le concept d'institution s'en trouve transformé: il ne désigne plus un ensemble de contraintes/sanctions ; l'institution _est_ le sacré, une idée, une vision du monde, une di-vision bipartite de l'univers.
+Il propose une théorie générale de la religion. Idée directrice: il est légitime/possible de fonder une théorie des religions "supérieures" sur l'études des formes "primitives" de la religion (selon une perspective évolutionniste). Le totémisme révèle l'essence de la religion et constitue une des formes les plus élémentaires de la vie religieuse. Qu'est-ce que la religion? Pour Durkheim, ce n'est pas la croyance en un dieu transcendant qui constitue le fondement du phénomène religieux. Non plus par les notions de mystère ou de surnaturel, qui sont plus récentes, car il n'y a de surnaturel que par rapport au naturel, et pour penser le naturel, il faut déjà penser de manière positive (scientifique). Pour lui, l'essence de la religion est la _division du monde en phénomènes sacrés et profanes_.
+
+Le concept d'institution s'en trouve transformé: il ne désigne plus un ensemble de contraintes/sanctions ; l'institution _est_ le sacré, une idée, une vision du monde, une di-vision bipartite de l'univers.
+
+> «Une religion est un système solidaire de croyances et de pratiques relatives à des choses sacrées, c'est-à-dire séparées, interdites, croyances et pratiques qui unissent en une même communauté morale, appelée Église, tous ceux qui y adhèrent.» (_LFEVR_)
+
+L'essence de la religion est le sacré, et seule la société est une réalité sacrée par elle-même: elle est à la fois la cause et la justification du phénomène religieux.
+
+> «nous avons vu que cette réalité, que les mythologies se sont représentée, mais qui est le cause objective, universelle et éternelle de ces sensations _sui generis_ dont est faite l'expérience religieuse, c'est la société.» (_LFEVR_)
+
+L'objet de la religion n'est rien d'autre que la société "transfigurée".
+
+> «C'est donc l'action qui domine la vie religieuse par cela seul que c'est la société qui en est la source. On peut donc dire, en résumé, que presque toutes les grandes institutions sociales sont nées de la religion. (...) Si la religion a engendré tout ce qu'il y a d'essentiel dans la société, c'est que l'idée de la société est l'âme de la religion.» (_LFEVR_)
+
+L'interprétation du phénomène religieux est celle d'une force anonyme et diffuse, supérieures aux individus qui constitue l'objet du culte: les hommes adorent leur société sans le savoir. Les sociétés sont portées à créer des divinités ou des religions quand elles sont dans cet état d'effervescence qui résulte de l'intensité extrême de la vie collective.
+
+Cette étude du phénomène religieux pose les bases essentielles d'une théorie sociologique de la connaissance: selon Durkheim, c'est la vie collective qui permet de rendre compte de la formation des concepts et des catégories de pensée (la distinction profane/sacré...)
+
+> «Les représentations religieuses sont des représentations collectives qui expriment des réalités collectives. (...) Les catégories ont, en effet, pour fonction de dominer d'envelopper tous les autres concepts: ce sont les cadres permanents de la vie mentale.» (_LFEVR_)
+
+Si les concepts doivent être considérés comme le "fruit" de la vie collective (une représentation que la société offre d'elle-même et du monde), il va sans dire que cela concerne aussi les concepts sociologiques. Mais Durkheim ne tirera pas toutes les conséquences épistémologiques de cette découverte. Comment est-il possible d'observer de l'extérieur (objectivement) une réalité sociale qui ne se donne à voir qu'au travers de notions et de concepts qu'elle produit elle-même?
 
 ### Max Weber. Une sociologie compréhensive et critique: le sens de l'action sociale
 #### économie et société
