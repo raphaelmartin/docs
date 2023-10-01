@@ -171,10 +171,32 @@ Cette étude du phénomène religieux pose les bases essentielles d'une théorie
 Si les concepts doivent être considérés comme le "fruit" de la vie collective (une représentation que la société offre d'elle-même et du monde), il va sans dire que cela concerne aussi les concepts sociologiques. Mais Durkheim ne tirera pas toutes les conséquences épistémologiques de cette découverte. Comment est-il possible d'observer de l'extérieur (objectivement) une réalité sociale qui ne se donne à voir qu'au travers de notions et de concepts qu'elle produit elle-même?
 
 ### Max Weber. Une sociologie compréhensive et critique: le sens de l'action sociale
+1864–1920, naît en Allemage d'un père juriste d'une riche famille d'industriels et de négociants en textiles. Études de droit, mais aussi économie, histoire, philo, théologie. Tout au long de sa vie, Weber a été marqué par un déchirement intérieur que l'on perçoit dans la tonalité souvent tragique de ses thèses sur la modernité: tensions existentielles entre nostalgie religieuse et exigence scientifiques, entre foi et nécessité, entre science et action, entre métier de professeur et celui d'homme politique.
+
+Son oeuvre peut être considérée comme une tentative de synthèse et de dépassement, au sein de la socio allemande naissante, de l'opposition entre l'école _systématique_/analytique (Tonnies, Simmel, Von Wiese, Vierkandt, Spann) et l'école _historique_ (Mannheim, Oppenheimer, Lukacs, Adler, Scheler). On peut classer les travaux de Weber en 5 catégories:
+
+  1. Le traité de sociologie générale (_Économie et Société_)
+  2. Les études de méthodologie, de critique et de théorie philosophie (_Essais sur la théorie de la science_)
+  3. Les études de socio historique: analyse des processus de rationalisation
+  4. Les travaux de sociologie des religions: analyse comparative des grandes religions et de l'action réciproque entre les conditions éco, les situations sociales et les convictions religieuses (_Éthique protestante et esprit du capitalisme_ et _Sociologie des religions_)
+  5. Les écrits politiques
+
 #### économie et société
-**La sociologie et le sens de l'action sociale**
+Dans ce traité de socio générale, des concepts principaux occupent la 1ère partie: action sociale, communauté, société, pouvoir, domination. L'intuition originale de Weber est de fonder la sociologie comme une science compréhensive de l'action sociale. Son "objet" n'est ni la société, ni l'individu, mais l'action, qui est à la fois intentionnelle et influencée par autrui (=pétrie de significations multiples). Met l'accent sur une question essentielle en sciences sociales: celle du _sens_, ou de la capacité des êtres humains à produire et interpréter des significations.
+
+**La sociologie et le sens de l'action sociale**  
+La sociologie comme science de l'_action sociale_: elle vise à comprendre le sens par interprétation et à en expliquer le déroulement et les effets.
+
+  * _Comprendre_: c'est saisir les significations
+  * _Interpréter_: c'est organiser, par des concepts, le sens subjectif
+  * _Expliquer_: c'est mettre à jour les régularités de conduite
+
+Weber définit l'action (activité) sociale comme un comportement humain _intentionnel_ (=auquel l'acteur lie une certaine signification) qui se rapporte au comportement d'autres personnes (=influencé par autrui).
+
+> «Nous appelons sociologie une science qui se propose de comprendre par interprétation l'activité sociale et par là d'expliquer causalement son déroulement et ses effets. Nous entendons par "activité" un comportement humain quand et pour autant que l'agent(s) lui communiquent un sens subjectif. Et par activité "sociale", l'activité qui, d'après son sens visé par l'agent(s), se rapporte au comportement d'autrui, par rapport auquel s'oriente son déroulement. Dans tous ces cas, "comprendre" signifie saisir par interprétation le sens ou l'ensemble significatif visé (...)» (_É&S_)
 
 **Les déterminants de l'action sociale**
+Distinction entre 4 types d'action (ou _déterminants de l'activité sociale_)
 
 **Communauté et société: deux processus d'intégration**
 
