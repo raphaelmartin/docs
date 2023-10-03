@@ -3,6 +3,16 @@ title: Ouvrages
 hide_table_of_contents: true
 ---
 
+# 01/10
+* ficher II- Penser les inégalités (Béraud et Coulmont)
+* ficher Weber (Orianne)
+* ficher Qu'est-ce que la culture? et Qu'est-ce que la déviance? (Marchal)
+* ficher Introduction et II (Ollion)
+
+FdT: Dior Forever, Huda Beauty, KVD Beauty good apple serum, SuperBB Erborian, NYX Bare with me blur
+Primer (base): MAC Base Studio Fix Mttifine
+Poudre: Maybelline FdT Poudre Superstay
+
 # Du 20-09 au 1-10
 
 1. **Lahire**. _Dans les plis singuliers du social. Individus, institutions, socialisations_
