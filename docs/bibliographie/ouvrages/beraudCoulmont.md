@@ -153,7 +153,41 @@ Une grande partie des enquêtes dans les '50 portaient sur le monde ouvrier. Les
 Dans les '60, l'intérêt pour les sciences sociales se développe. On passe d'une vingtaine d'enseignants du supérieur en socio en 1958 à 100 en 1968. Au milieu des '60, un premier cycle universitaire de sociologie (L1, L2) est créé. La recherche "sur contrat" prend son essor. Mais quelle est la place des sociologues? Parfois perçus comme des "déchiffreurs de tendance", ou des "analystes" des problèmes de la société industrielle. Pour Edgar Morin, les chercheurs avant étaient "crados", des marginaux dans l'univers académique. Désormais, ils ressemblent aux fonctionnaires et aux cadres.
 
 ## 2— Penser les inégalités
+La question de l'égalité, passion des sociétés démocratiques selon Tocqueville, est une problématique classique de la socio, et son pendant: les inégalités capitalistes (Karl Marx). Question qui garde une actualité car les inégalités n'ont pas disparu: Piketty a montré comment les inégalités de richesse et de patrimoine réaugmentent dans les pays développés après une période de plus grande égalité.
+
+> «7 enfants de cadres sur 10 exercent un emploi d'encadrement (...). À l'inverse, 7 enfants d'ouvriers sur 10 demeurent cantonnés à des emplois d'exécution» (Peugny, 2013)
+
+Problématiques qui se focalisent sur l'école pour 2 raisons:
+
+  * **stratégique**: "au sein des inégalités sociales, les inégalités devant l'éducation revêtent un caractère spécifique: elles ne sont pas seulement une inégalité parmi d'autres (...). Elles sont aussi une courroie de reproduction des inégalités." (Duru-Bellat, 2002)
+  * **idéologique**: l'attachement français au mythe républicain de l'école émancipatrice.
+
 ### Reproduction ou inégalité des chances: les approches de Bourdieu et Boudon
+En FR, les inégalités sociales quant à l'accès à l'enseignement, aux carrières scolaires, sont au cœur des travaux socio des années '60–'70. Bourdieu et Passeron mettent à jour des mécanismes de domination et de reproduction sociale, quand Boudon, fidèle au principe de l'individualisme méthodologique, insiste au contraire sur les stratégies des élèves et de leurs familles.
+
+#### le contexte des années 1960.
+Les 2 décennies qui suivent la Libération sont marquées par des changements éco/socio/culturels intenses qui s'accompagnent d'une mystique du progrès: croissance rapide et soutenue du revenue national, urbanisation, hausse taux de fécondité... 2 questions lient alors niveau d'éducation et croissance économique: le système scolaire fournit-il une main d'oeuvre suffisamment formée? La croissance éco permet-elle de réduire les inégalités de réussite et d'accès à l'enseignement secondaire/supérieur? À cette époque, à peine plus de 10% d'une classe d'âge accèdent au baccalauréat.
+
+L'école s'impose comme l'observatoire privilégié des inégalités. Jusqu'au début des '60, l'objet de l'éducation a été largement désinvesti. Mais dans les '50, la séparation du système d'enseignement entre filière primaire-supérieur (enfants de milieux populaires) et lycée bourgeois est de plus en plus discutée dans les milieux intellectuels et politiques. Les pédagogues/psy se posent la question du "problème de la mesure des 'aptitudes' (intelligence) et de la fiabilité des examens scolaires/tests (docimologie)". Les sociologues ne s'en saisissent qu'au cours des '60.
+
+En 1962, l'Ined conduit une enquête sur le devenir des élèves à la fin de la classe de CM2. Est mise en évidence l'influence de l'origine sociale des élèves sur leur orientation: du fait d'une réussite inégale selon les milieux (facteur déterminant: niveau culturel des parents, non leur revenu), mais aussi des projets plus ou moins ambitieux que leur famille nourrit à leur égard. Ces travaux vont marquer la socio de l'éducation car les résultats heurtent de plein fouet l'idéal méritocratique que l'école de la République est censée promouvoir.
+
+#### Bourdieu: domination et reproduction.
+**La "relégation" scolaire des enfants de milieux populaires**  
+Constat de départ: dans les '60, flagrant inégal accès à l'université en fonction de l'origine sociale. Au cours de la décennie où les effectifs augmentent, les écarts entre les CSP se maintiennent. Une véritable égalité des chances seraient que les proportions d'étudiants issus des diverses CSP correspondent à la part de ces CSP dans la population totale, conduisant à une répartition proportionnelle dans les diverses filières. Or, les étudiants de milieux pop. vont vers les facultés et lettres et de sciences, alors que ceux issus de milieu privilégiés se tournent vers les facs de médecine et de droit.
+
+Dans _Les Héritiers_ (1964), les auteurs remettent en cause 2 idées reçues:
+
+  1. Il y aurait des élèves doués par nature.
+  2. Les obstacles de types économique permettraient d'expliquer la moindre réussite des jeunes issus de milieux populaires.
+
+un schéma explicatif transposé à d'autres formes d'inégalités.
+une sociologie du dévoilement.
+les critiques faites à Bourdieu.
+#### Boudon: l'inégalité des chances scolaires.
+#### conclusion sur le binôme Bourdieu–Boudon.
+
+
 ### Des approches plus récentes: exclusion et discriminations
 ### Conclusion
 

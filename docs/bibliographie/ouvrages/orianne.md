@@ -196,11 +196,23 @@ Weber définit l'action (activité) sociale comme un comportement humain _intent
 > «Nous appelons sociologie une science qui se propose de comprendre par interprétation l'activité sociale et par là d'expliquer causalement son déroulement et ses effets. Nous entendons par "activité" un comportement humain quand et pour autant que l'agent(s) lui communiquent un sens subjectif. Et par activité "sociale", l'activité qui, d'après son sens visé par l'agent(s), se rapporte au comportement d'autrui, par rapport auquel s'oriente son déroulement. Dans tous ces cas, "comprendre" signifie saisir par interprétation le sens ou l'ensemble significatif visé (...)» (_É&S_)
 
 **Les déterminants de l'action sociale**
-Distinction entre 4 types d'action (ou _déterminants de l'activité sociale_)
+Distinction entre 4 types d'action (ou _déterminants de l'activité sociale_):
 
-**Communauté et société: deux processus d'intégration**
+  1. L'action _rationnelle en finalité_: mûrement réfléchie (calculée), en fonction de moyens pour atteindre des fins.
+  2. L'action _rationnelle en valeur_: conforme à une norme (un impératif, exigence, conviction).
+  3. L'action _affective_: dictée immédiatement par l'état émotionnel.
+  4. L'action _traditionnelle_: dictée par les habitudes, les coutumes, les routines.
+
+L'orientation rationnelle en valeur peut avoir avec l'orientation rationnelle en finalité des rapports très divers: celui qui agit en finalité n'opère ni par expression des affects, ni par tradition. Pour Weber, il n'existe pas de type "à l'état pur" dans la réalité sociale, l'activité réelle combine ces diverses orientations.
+
+**Communauté et société: deux processus d'intégration**  
+L'action sociale présente/possède des propriétés intégratives. Le processus d'intégration des acteurs peut aboutir à créer soit une _société_ (=la motivation des actions sociales constituée par des liaisons d'intérêts ou de règlements d'intérêts: intégration rationnelle par rapport à un but) soit une _communauté_ (=le fondement du groupe est un sentiment d'appartenance collective dont la motivation est affective ou traditionnelle). Proximité entre ces 2 processus d'intégration et les 2 types de solidarité chez Durkheim.
 
 **Les types de domination légitime**
+
+Le pouvoir.
+
+:  La possibilité de contraindre le comportement d'autrui à sa propre volonté (concept d'_influence_).
 
 #### théorie de la science.
 **Une sociologie compréhensive**
