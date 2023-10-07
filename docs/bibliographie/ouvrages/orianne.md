@@ -206,16 +206,61 @@ Distinction entre 4 types d'action (ou _déterminants de l'activité sociale_):
 L'orientation rationnelle en valeur peut avoir avec l'orientation rationnelle en finalité des rapports très divers: celui qui agit en finalité n'opère ni par expression des affects, ni par tradition. Pour Weber, il n'existe pas de type "à l'état pur" dans la réalité sociale, l'activité réelle combine ces diverses orientations.
 
 **Communauté et société: deux processus d'intégration**  
-L'action sociale présente/possède des propriétés intégratives. Le processus d'intégration des acteurs peut aboutir à créer soit une _société_ (=la motivation des actions sociales constituée par des liaisons d'intérêts ou de règlements d'intérêts: intégration rationnelle par rapport à un but) soit une _communauté_ (=le fondement du groupe est un sentiment d'appartenance collective dont la motivation est affective ou traditionnelle). Proximité entre ces 2 processus d'intégration et les 2 types de solidarité chez Durkheim.
+L'action sociale présente/possède des propriétés intégratives. Le processus d'intégration des acteurs peut aboutir à créer soit une _société_ (=la motivation des actions sociales constituée par des liaisons d'intérêts ou de règlements d'intérêts: intégration rationnelle par rapport à un but) soit une _communauté_ (=le fondement du groupe est un sentiment d'appartenance collective dont la motivation est affective ou traditionnelle). Malgré des différences, certaine proximité entre ces 2 processus d'intégration et les 2 types de solidarité chez Durkheim.
 
 **Les types de domination légitime**
 
 Le pouvoir.
 
-:  La possibilité de contraindre le comportement d'autrui à sa propre volonté (concept d'_influence_).
+:  La possibilité de contraindre le comportement d'autrui à sa propre volonté (concept d'_influence_). La _domination_ est un cas particulier d'une relation de pouvoir qui se caractérise par la possibilité/chance de trouver des personnes déterminables prêtes à obéir à un ordre de contenu déterminé (concept d'_autorité_).
+
+Typologie des formes de domination légitime:
+
+  1. la domination _rationnelle_, fondée sur la croyance en la légalité des ordonnances/titres de ceux qui exercent la domination (exemple: république). L'État moderne dispose du monopole de la contrainte physique (violence) légitime, fondée sur cette rationalité légale-bureaucratique.
+  2. La domination _traditionnelle_, fondée sur la croyance dans le caractère sacré des traditions anciennes (cas d'une monarchie de droit divin).
+  3. La domination _charismatique_, fondée sur le charisme, sur la croyance en la valeur exemplaire d'une personne (chef charismatique).
+
+> «La domination comme la chance de trouver obéissance de la part d'un groupe déterminé d'individus. (...) Dans le cas de la domination statutaire, on obéit à l'ordre impersonnel, objectif, légalement arrêté, et aux supérieurs qu'il désigne (...). Dans le cas de la domination traditionnelle, on obéit à la personne du détenteur du pouvoir désigné par la tradition (...) Dans le cas de la domination charismatique, on obéit au chef en tant que tel». (_E&S_)
+
+Weber esquisse 4 types d'action et seulement 3 types de domination. Pourquoi n'y a-t-il pas de correspondance entre ces deux typologies?
+
+<table>
+<thead>
+  <tr>
+    <th>Type d'action</th>
+    <th>Type de domination</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Rationnelle en finalité</td>
+    <td rowspan="2">Domination rationnelle-légale (bureaucratique)</td>
+  </tr>
+  <tr>
+    <td>Rationalité en valeur</td>
+  </tr>
+  <tr>
+    <td>Conduite traditionnelle</td>
+    <td>Domination traditionnelle</td>
+  </tr>
+  <tr>
+    <td>Conduite affective</td>
+    <td>Domination charismatique</td>
+  </tr>
+</tbody>
+</table>
+
+On trouve aussi dans ce traité, l'esquisse d'une typologie distinguant 2 formes de légitimité rationnelle: rationnelle en valeur et rationnelle-légale.
+
+> «Les agents peuvent accorder à un ordre une validité légitime: en vertu de la _tradition_ ; en vertu d'une croyance d'ordre _affectif_ ; en vertu d'une croyance _rationnelle en valeur_ ; en vertu d'une disposition positive, à la _légalité_ de laquelle on croit.» (_E&S_)
 
 #### théorie de la science.
-**Une sociologie compréhensive**
+**Une sociologie compréhensive**  
+Les sciences sociales présentent 3 caractères originaux qui les distinguent des sciences de la nature, elles sont:
+
+  * compréhensives,
+  * historiques,
+  * portent sur la culture (les valeurs),
 
 **Le concept de causalité**
 

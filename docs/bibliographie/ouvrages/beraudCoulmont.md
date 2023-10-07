@@ -178,12 +178,40 @@ Constat de départ: dans les '60, flagrant inégal accès à l'université en fo
 
 Dans _Les Héritiers_ (1964), les auteurs remettent en cause 2 idées reçues:
 
-  1. Il y aurait des élèves doués par nature.
+  1. Il y aurait des élèves doués par nature. (=le succès scolaire attribué aux aptitudes innées, mérite individuel ; l'échec est vécu par les élèves de milieux populaires comme "destin personnel")
   2. Les obstacles de types économique permettraient d'expliquer la moindre réussite des jeunes issus de milieux populaires.
 
-un schéma explicatif transposé à d'autres formes d'inégalités.
-une sociologie du dévoilement.
-les critiques faites à Bourdieu.
+Pour Bourdieu et Passeron, l'origine  des performances scolaires se trouve dans le milieu familial: le facteur déterminant pas à chercher que du côté des revenus, mais aussi dans l'inégal accès à l'information, et dans les déterminismes/dispositions hérités. La transmission de "l'héritage culturel", plus discrète/indirecte est ce qui fait la différence: dès lors, une politique d'allocation de bourse ne peut suffire à atteindre l'égalité des chances entre étudiants.
+
+La culture savante, celle valorisée à l'école, est celle détenue par les milieux favorisés: la culture scolaire est une "culture de classe". Le niveau de langue, l'attitude à l'égard du savoir et les pratiques culturelles en font partie. Or, l'école ignore ces inégalités initiales alors que les jeunes n'ont pas tous la même chance de fréquenter des musées, expos selon leur origine sociale. Le système scolaire contribue alors à la légitimation, perpétuation des inégalités. Notion de "culture libre": la culture que l'école présuppose et exige "sans jamais la délivrer méthodiquement".
+
+_La Reproduction_ (1970): Complexifient leur appareil théorique. Introduction de concepts:
+
+  * L'**habitus** qui précise les modalités de la transmission du capital culturel d'une génération à l'autre au sein de la famille.
+  * La **violence symbolique**: la domination n'est pas perçue comme telle, intériorisée elle leur semble légitime et ils finissent par "s'autoéliminer". Les jeunes de milieux populaires anticipent leur échec et ainsi y contribuent.
+
+Dans certaines sociétés, les positions sociales se transmettent de père en fils. Dans les sociétés démocratiques, ce n'est pas la naissance mais le mérite personnel qui doit permettre d'acquérir son statut social. C'est le diplôme, et non plus le capital éco, qui conditionne le statut social: on est passé d'un mode de reproduction familial à un "mode de reproduction à composante scolaire". L'école, en favorisant un certain héritage culturel, contribue à la reproduction des inégalités sociales d'une génération à l'autre: elle n'est pas neutre.
+
+Après l'université, Bourdieu et Passeron analysent l'enseignement secondaire. Alors que l'accès au collège s'est banalisé, constat d'un "brouillage des oppositions entre les différentes jeunesses de classe". Pour autant, leurs chances réelles de réussite scolaire n'ont pas augmenté [les jeunes de milieux pop.]. La ségrégation persiste car les diplômes se sont dévalués: certains titres scolaires n'ont plus rien de distinctifs.
+
+**un schéma explicatif transposé à d'autres formes d'inégalités.**  
+Pour Bourdieu, les rapports de domination s'exercent dans toutes les activités sociales. Ce sont toujours les mêmes mécanismes: les dominants imposent leur valeurs aux dominés, qui en les intériorisant, deviennent complices de leur propre domination, et contribuent à sa perpétuation. Dans _La domination masculine_, il développe le concept de violence symbolique, qui est d'autant plus efficace qu'elle n'est pas perçue comme telle, car opérant à travers les habitus des individus, leurs schèmes de perception, d'appréciation et d'action, qui suppose un "immense travail préalable".
+
+Constat dans l'ouvrage d'une permanence de la division sexuée, et des "principes de vision correspondants": un "inconscient androcentrique". Cette permanence des "conditions" féminine et masculine est en fait le fruit de processus qui ont consisté tout au long de l'histoire à transformer l'arbitraire culturel en naturel.
+
+Les institutions qui contribuent à la reproduction des rapports sociaux de sexes sont la famille, la religion, l'école, et l'État. Mais "le privilège masculin est aussi un piège": la domination est un poids pour ceux censés l'exercer, en se devant d'affirmer leur virilité.
+
+**controverses autour de _La domination masculine_**  
+Les moyens d'action des féministes sont présentés comme inadaptés. Leurs critiques, focalisées sur la sphère domestique, se tromperaient de cible. La seule conscience et volonté ne suffisent pas à vaincre la violence symbolique. 2 écueils du féminisme: le féminisme universaliste (=prend comme universels des traits qui ne sont que des propriétés historiques de l'homme viril) ; la vision différentialiste (=n'échappe pas à l'essentialisme et fait alors l'impasse sur la dimension historique des rapports sociaux de sexe).
+
+**une sociologie du dévoilement.**  
+Les mécanismes de dominant-reproduction sont présentés comme largement cachés aux individus. L'habitus fonctionne comme une "seconde nature", et la violence symbolique est "douce et invisible". L'analyse socio bourdieusienne a pour effet de dévoiler, révéler ces mécanismes (sociologie critique).
+
+**les critiques faites à Bourdieu.**  
+Penser toutes les relations sociales sous la forme de la domination peut sembler réducteur. À la fin de _LDM_, Bourdieu pose la question de la suspension des rapports de domination au sein du couple amoureux ou entre amis.
+
+Reproche sur sa conception trop déterministe des rapports sociaux. Un fataliste? Pourtant, Bourdieu et Passeron dans les _Héritiers_ évoquent les moyens d'une démocratisation de l'enseignement. Mais, bien que les mécanismes de domination ne sont pas éternels, que la reproduction n'exclut pas le changement, Bourdieu n'est pas précis: la lutte doit se livrer principalement au niveau des catégories de pensée.
+
 #### Boudon: l'inégalité des chances scolaires.
 #### conclusion sur le binôme Bourdieu–Boudon.
 
